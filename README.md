@@ -1,2 +1,2 @@
-# SemaforoInteligente
-Proyecto de Semaforo Inteligente
+# Name me!
+Proyecto de uC
